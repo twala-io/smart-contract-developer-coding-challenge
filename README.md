@@ -21,6 +21,7 @@ Your task is to write a smart contract that creates your own ERC20 token and bui
 2. Work on your solution
 3. Deploy your smart contract to a testnet of your choice.
 4. Create a pull request with @github/apquinit as the reviewer. Send us an email at paul.quinit@twala.io when you're ready to have it reviewed.
+5. Include in your README documentation the steps on how to setup and run your project on another local machine.
 
 ## Timeframe
 
