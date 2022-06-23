@@ -1,4 +1,4 @@
-# Developer Coding Challenge
+# Web3 Developer Coding Challenge
 As the next step in the hiring process, we’d like you to complete a coding challenge.
 
 ## The Project
