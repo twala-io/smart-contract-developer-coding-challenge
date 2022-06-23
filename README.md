@@ -1,4 +1,4 @@
-# Web3 Developer Coding Challenge
+# Smart Contract Developer Coding Challenge
 As the next step in the hiring process, we’d like you to complete a coding challenge.
 
 ## The Project
